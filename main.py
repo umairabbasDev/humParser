@@ -7,7 +7,9 @@ parser.add_argument('file', type=argparse.FileType(
 args = parser.parse_args()
 
 if not args.file.name.endswith('.hum'):
-    print('Error: File must have .hum extension.')
+    print('Error: file format not recognized;.hum not provided ')
+    print("ERROR:  syntax error")
+
 else:
     # Do something with the file here
     print(f'Parsing {args.file.name}...')

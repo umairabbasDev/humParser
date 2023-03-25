@@ -1,0 +1,8 @@
+#dir
+./
+#dirEnd
+
+
+#cmd
+touch .env
+#cmdEnd
