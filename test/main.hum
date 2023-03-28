@@ -1,8 +1,38 @@
-#dir
-./
-#dirEnd
+data types:
+    File
+    Directory
+    Command
+    Flow
 
+control:
+
+
+
+#dir "sdsd" 
+
+D sona = "dom"
+F abu = ""
 
 #cmd
-touch .env
+    touch .env
 #cmdEnd
+
+@repeate - all
+#CMD
+    mv "file" -> "./so"
+#CMDEnd
+
+#CMD
+   
+   mklmkl
+#CMDEnd
+
+#MV
+#RN
+#CF
+#CD
+
+#DOOM
+
+
+#DOOEnd
